@@ -1,5 +1,5 @@
-### Hi there 👋
-###### Highly interest in Software Engineering and UI/UX 🙌
+### Hello there 👋
+###### Highly interest in Software Engineering and Blockchain  :muscle:
 
 <p><a href="https://github.com/VerryGustiAndrea"><img src="https://github-profile-trophy.vercel.app/?username=VerryGustiAndrea&column=6&row=1&margin-w=15&margin-h=15" alt="Fizhu" /></a></p>
 <hr>
